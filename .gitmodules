@@ -1,0 +1,3 @@
+[submodule "wordpress.theme.classic.lab"]
+	path = themes/classic
+	url = https://github.com/katheroine/wordpress.theme.classic.lab
